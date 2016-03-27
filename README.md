@@ -3,7 +3,7 @@ Coursera: Algorithms
 
 Programming Assignments (Algorithms, Part I and II by Kevin Wayne, Robert Sedgewick)
 
-Part I
+## Part I
 
 PA-1 Percolation (Union-find)
 ###
@@ -48,7 +48,7 @@ PA-5 Kd-Tree (Balanced Search Trees)
 			PointSET.java;
 			KdTree.java
 
-Part II
+## Part II
 
 PA-1 WordNet
 ###
