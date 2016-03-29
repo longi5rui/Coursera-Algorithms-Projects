@@ -46,7 +46,8 @@ PA-5 Kd-Tree (Balanced Search Trees)
 			http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
 		Code:
 			PointSET.java;
-			KdTree.java
+			KdTree.java    
+<br>
 
 ## Part II
 
