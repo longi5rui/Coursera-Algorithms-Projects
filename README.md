@@ -1,4 +1,4 @@
-Coursera: Algorithms
+Coursera Course: Algorithms
 ===================
 
 Programming Assignments (Algorithms, Part I and II by Kevin Wayne, Robert Sedgewick)
